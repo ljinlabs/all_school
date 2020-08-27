@@ -19,3 +19,13 @@ For each course and for each semester, users can add a course either for themsel
 - search pre-created course aggregates by semesters
 - add courses if none exists
 - decide to make the course aggre public or private
+
+- Unless the user archives the aggre, the aggregated course will disappear if not current. Why? just cuz.
+
+## Contributing
+
+- Feature suggestion
+- Django Dev
+- Database Eng
+- Front-end peeps. 
+Hmu
