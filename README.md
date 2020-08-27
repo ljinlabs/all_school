@@ -10,3 +10,12 @@ All School is focuses on five main categories
 - Forums
 - Lectures / Discussions
 - Labs
+
+For each course and for each semester, users can add a course either for themselves or to be shared on public. If shared on public, the aggregated table can be viewed by other people.
+
+### Dev notes (What I want it to do)
+
+- log in: just set up simple oauth or maybe allow illinois login
+- search pre-created course aggregates by semesters
+- add courses if none exists
+- decide to make the course aggre public or private
