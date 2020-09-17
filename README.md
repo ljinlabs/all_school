@@ -28,4 +28,6 @@ For each course and for each semester, users can add a course either for themsel
 - Django Dev
 - Database Eng
 - Front-end peeps. 
-Hmu
+Hm
+test up from ssh
+u
