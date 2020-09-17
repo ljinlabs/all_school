@@ -30,4 +30,4 @@ For each course and for each semester, users can add a course either for themsel
 - Front-end peeps. 
 Hm
 test up from ssh
-u
+test up from mac
