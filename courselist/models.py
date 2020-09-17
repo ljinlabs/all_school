@@ -26,5 +26,5 @@ class Course(models.Model):
     course_created = models.DateTimeField(auto_now_add=True)
     course_semester = models.CharField(max_length=10,choices=course_semester_choices)
 
-    def is_current(self):
-        return self.course_last_updated > datetime.date.today
+    # def is_current(self):
+    #     return self.course_last_updated > datetime.date.today
